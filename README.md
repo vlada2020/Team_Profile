@@ -12,4 +12,5 @@ It is recommended that you follow this workflow:
 2. Create or update classes to pass a single test case
 3. Repeat
 
-![alt-text](hw10demo.gif)
+
+![demo](hw10gif.gif)
