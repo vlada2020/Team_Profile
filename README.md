@@ -12,19 +12,4 @@ It is recommended that you follow this workflow:
 2. Create or update classes to pass a single test case
 3. Repeat
 
-🎗 Remember, you can run the tests at any time with `npm run test`
-
-It is recommended that you start with a directory structure that looks like this:
-
-```
-lib/           // classes and helper code
-output/        // rendered output
-templates/     // HTML template(s)
-test/          // jest tests
-  Employee.test.js
-  Engineer.test.js
-  Intern.test.js
-  Manager.test.js
-app.js         // Runs the application
-```
-
+![alt-text](hw10demo.gif)
